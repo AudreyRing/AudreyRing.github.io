@@ -1,0 +1,44 @@
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  background-color: #FCFCFC;
+  color: #02111B;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+h1, h2, h3 {
+  font-family: 'Newsreader', serif;
+  font-size: medium;
+}
+
+.site-header {
+  background-color: #02111B; 
+}
+
+header {
+  background-color: #02111B;
+  color: #FCFCFC;
+  padding: 4rem 1rem;
+  text-align: center;
+}
+
+nav a {
+  color: #FCFCFC;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.visit-box {
+  background-color: #02111B; 
+  color: #FCFCFC;           
+  padding: 2rem;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem;
+}
+
+
