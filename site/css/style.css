@@ -1,0 +1,53 @@
+header {
+    background-color: rgb(31, 18, 18);
+    padding: 2rem;
+    color: antiquewhite;
+}
+
+header img {
+    width: 400px;
+    height: 400px;
+}
+
+h1 {
+    font-size: 75px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header-text {
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    color: antiquewhite;
+    text-align: right;
+}
+
+nav {
+    text-align: center;
+    padding: 1rem;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav a {
+    color: rgb(31, 18, 18);
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+body {
+    background-color: rgb(246, 228, 228);
+}
+
+.container {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    text-align: center;
+    color:rgb(77, 55, 55)
+}
+
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: rgb(94, 74, 74);
+    color: antiquewhite
+}
